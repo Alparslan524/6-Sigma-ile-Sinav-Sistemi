@@ -9,14 +9,17 @@ Son olarak projemizde, kullanıcı adı ve şifre kullanarak giriş yapma, şifr
 
 
 Amaç
+
 Esas amaç öğrencilerin 6 Sigma algoritması ile birlikte sınav yapmasıdır. Sisteme kullanıcı ekleme ,silme, soru ekleme, soru silme, rapor çıkarma gibi özellikleri de vardır.
 
 Kullanılan Teknolojiler
+
 Visual Studio 2019
 Microsoft SQL
 
 
 Ekip Arkadaşları
+
 Alparslan Aydoğan       
 Murat Koseli
 
